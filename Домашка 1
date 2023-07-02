@@ -1,0 +1,41 @@
+#print('Hello world')
+
+
+#1-e zadanie
+
+a = 10
+b = 30
+c = a + b
+#print(c)
+c = a - b
+#print(c)
+c = a * b
+#print(c)
+c = a / b
+
+
+#2_e zadanie
+
+#print(c)
+#print(a < b)
+#print(a > b)
+#print(a == b)
+#print(a != b)
+
+
+#3_e zadanie
+
+# # # str
+str1="Hello "
+str2="world"
+s = str1 + str2
+#print(s)
+
+
+#4-e zadanie
+
+new_string = "Hello world"
+s = new_string
+#print(len(s))
+str_len = len(s)
+#print(str_len)
